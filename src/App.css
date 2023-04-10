@@ -1,17 +1,19 @@
 .header {
     background-color: #2E6CE6;
     height: 4px;
-    width: 100%;
+    z-index:100;
 }
 .layout {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     height: 100vh;
+    z-index:100;
 }
 .footer {
     height: 15px;
     background-color: #2E6CE6;
+    z-index:100;
 }
 
 .float{

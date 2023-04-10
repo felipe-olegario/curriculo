@@ -41,8 +41,7 @@ const frontendSkills = [
   'cypress',
   'Bootstrap',
   'Vuetfy',
-  'Git',
-  'Figma'
+  'Github',
 ]
 
 const fistBackendSkills = [

@@ -4,6 +4,8 @@
   padding: 70px 10%;
   display: grid;
   grid-template-columns: 2fr 1fr;
+  z-index:100;
+  color: white;
 }
 
 @media (max-width: 600px)  {
